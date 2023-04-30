@@ -1,0 +1,466 @@
+.navbar{
+	height: 100px;
+	width: 1350px;
+	float: left;
+	background-color: rgba(207, 207, 207, 0.459);
+	position: fixed;
+}
+.logo{
+	height: 50px;
+	width: 35px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.purple{
+	color: purple;
+	float: left;
+	font-family: normal;
+    margin-left: 25px;
+}
+.navlinks{
+	height: 30px;
+	width: 600px;
+	margin-top: 10px;
+	padding-top: 30px;
+    font-family: sans-serif;
+	margin-left: 300px;
+	float: left;
+}
+a{
+	margin-left: 30px;
+	text-decoration: none;
+	word-spacing: 10px;
+	color: purple;
+    font-size: large;
+}
+
+a:hover {
+    color: white;
+    background-color: purple;
+    padding: 10px 10px;
+}
+.b1 button{
+	color: white;
+	height: 40px;
+	width: 100px;
+	float: left;
+	margin-top: 30px;
+	margin-right: 30px;
+	border-radius: 5px;
+	background-color: purple;
+}
+button:hover {
+    color: gary;
+    background-color: black;
+}
+.banner{
+    height: 600px;
+	width: 1350px;
+	float: left;
+	margin-left: 10px;
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+.box1{
+	height: 600px;
+	width: 1350x;
+	float: left;
+	margin-left: 70px;
+	margin-top: 150px;
+	padding-left: 20px;
+}
+.boxh1{
+	height: 200px;
+	width: 500px;
+	margin-top: 30px;
+	border-radius: 5px;
+	font-family: arial;
+	font-size: x-large;
+}
+.b2 button{
+	height: 45px;
+	width: 170px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 80px;
+	border-radius: 5px;
+	background-color: purple;
+	color: white;
+	box-shadow: 10px;
+}
+button:hover {
+    color: white;
+    background-color: black;
+
+}
+h1{
+	color: purple;
+}
+.image1 {
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+.container{
+	height: 400px;
+	width: 500px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 40px 40px;
+	float: left;
+    background-image: url(./images/about.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box2{
+	height: 400px;
+	width: 500px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 40px 40px;
+	float: left;
+    background-color: rgb(212, 208, 208);
+}
+h4{
+	color: purple;
+}
+.p1{
+	margin-top: -8px;
+	color: purple;
+	font-size: x-large;
+	font-family: arial;
+}
+span{
+	margin-top: -8px;
+	font-size: large;
+}
+.b3 button{
+	height: 45px;
+	width: 120px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 50px;
+	border-radius: 5px;
+	background-color: purple;
+	color: white;
+	box-shadow: 10px;
+}
+.image2{
+	height: 370px;
+	width: 550px;
+	float: left;
+	margin-right: px;
+	margin-top: 30px;
+	border-radius: 5px;
+}
+.container2{
+	height: 550px;
+	width: 1350px;
+	float: left;
+	margin-top: 80px;
+	margin-left: 10px;
+}
+.h1{
+	margin-top: -8px;
+	color: purple;
+	font-size: xx-large;
+	font-family: arial;
+}
+.values1{
+	height: 400px;
+	width: 350px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 50px;
+	background-color: white;
+	border-radius: 5px;
+	text-align: center;
+}
+.image3{
+	margin-top: 10px;
+	margin-left: px;
+	border-radius: 5px;
+}
+.text1{
+	height: 120px;
+	width: 350px;
+	float: left;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+.values2{
+	height: 400px;
+	width: 350px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 100px;
+	background-color: white;
+	border-radius: 5px;
+	text-align: center;
+}
+.image4{
+	margin-top: 10px;
+	margin-left: px;
+	border-radius: 5px;
+}
+.text2{
+	height: 120px;
+	width: 350px;
+	float: left;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+.values3{
+	height: 400px;
+	width: 350px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 100px;
+	background-color: white;
+	border-radius: 5px;
+	text-align: center;
+}
+.image5{
+	margin-top: 10px;
+	margin-left: px;
+	border-radius: 5px;
+}
+.text3{
+	height: 120px;
+	width: 350px;
+	float: left;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+.p2{
+	margin-top: 5px;
+	color: purple;
+	font-size: x-large;
+	font-family: arial;
+}
+.p3{
+	margin-top: 5px;
+	color: purple;
+	font-size: x-large;
+	font-family: arial;
+}
+.p4{
+	margin-top: 5px;
+	color: purple;
+	font-size: x-large;
+	font-family: arial;
+}
+
+.h2{
+	color: purple;
+	font-family: arial;
+	font-size: xx-large;
+}
+.h3{
+	color: purple;
+	font-family: arial;
+	font-size: xx-large;
+}
+.h3{
+	color: purple;
+	font-family: arial;
+	font-size: xx-large;
+}
+
+.h4{
+	color: purple;
+	font-family: arial;
+	font-size: xx-large;
+	margin-top: -10px;
+}
+.container8{
+	height: 650px;
+	width: 1350px;
+	float: left;
+	margin-top: -10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+.h6{
+	font-family: arial;
+	font-size: xx-large;
+	margin-top: -10px;
+}
+
+.box7{
+	height: 450px;
+	width: 600px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 70px;
+	background-color: whitesmoke;
+	border-radius: 5px;
+}
+.dark{
+	color: purple;
+	font-size: x-large;
+	font-family: arial;
+	margin-top: 80px;
+	margin-left: 30px;
+}
+.black{
+	margin-left: 30px;
+}
+.address{
+	height: 200px;
+	width: 270px;
+	float: left;
+	background-color: white;
+	border-radius: 2px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.call{
+	height: 200px;
+	width: 270px;
+	float: left;
+	background-color: white;
+	border-radius: 2px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.email{
+	height: 200px;
+	width: 270px;
+	float: left;
+	background-color: white;
+	border-radius: 2px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.open{
+	height: 200px;
+	width: 270px;
+	float: left;
+	background-color: white;
+	border-radius: 2px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.box8{
+	height: 450px;
+	width: 600px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: whitesmoke;
+	border-radius: 5px;
+}
+.input1{
+	height: 40px;
+	width: 250px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.input2{
+	height: 40px;
+	width: 250px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.input3{
+	height: 40px;
+	width: 530px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.input4{
+	height: 150px;
+	width: 530px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.input5{
+	height: 50px;
+	width: 600px;
+}
+.click1{
+	height: 50px;
+	width: 150px;
+	color: white;
+	margin-left: 20px;
+	background-color: purple;
+	border-radius: 5px;
+}
+
+.container9{
+	height: 240px;
+	width: 1350px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 10px;
+	margin-bottom: 30px;
+	background-color: whitesmoke;
+	border-radius: 5px;
+}
+
+.box9{
+	height: 200px;
+	width: 500px;
+	float: left;
+	padding-left: 10px;
+	margin: 20px 20px;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.footerlogo{
+	height: 20px;
+	width: 35px;
+	float: left;
+	margin-right: 20px;
+	margin-top: 15px;
+}
+.footerp{
+	float: left;
+	margin-top: 5px;
+}
+.box11{
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 20px;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.footerT{
+	text-align: center;
+	font-family: arial;
+	font-size: large;
+	color: purple;
+}
+.Ftag{
+	margin-top: px;
+	margin-left: 20px;
+	word-spacing: -0px;
+}
+.box12 {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: 150px;
+	margin-left: 40px;
+	background-color: white;
+	border-radius: 5px;
+}
+.navigate {
+	margin-left: -15px;
+	padding-top: -15px;
+}
